@@ -3,7 +3,6 @@
 #include <string>
 using namespace std;
 
-void 
 int main(int argc, char *argv[]) {
 	cout << "HELLO WORLD\n";
 	cout << "READING DVD..." << endl;
